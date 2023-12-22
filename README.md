@@ -25,8 +25,4 @@ I specialize in designing and developing websites that not only look great but a
 - **APIs:** RESTful APIs, GraphQL
 - **Design:** Responsive design, UI/UX
 
-## 📈 GitHub Stats
-
-[![Sonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
-
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or if you have any questions. Happy coding! 🚀
