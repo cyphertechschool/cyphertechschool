@@ -15,7 +15,7 @@ I'm a passionate web developer with expertise in building dynamic and responsive
 
 ## 🚀 What I Do
 
-I specialize in designing and developing websites that not only look great but also provide a seamless user experience. From front-end to back-end, I love bringing ideas to life on the web.
+I specialize in designing and developing websites that provide not only attractive aesthetics but also an efficient user experience.
 
 ## 💻 Tech Stack
 
